@@ -1,4 +1,7 @@
 {
+	"name": "yumi",
+	"version": "1.0.0",
+	"author": "Yahiko",
 	"dependencies": {
 		"discord.js": "discordjs/discord.js",
 		"ytdl-core": "^0.29.2"
