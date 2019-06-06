@@ -1,0 +1,6 @@
+{
+	"dependencies": {
+		"discord.js": "discordjs/discord.js",
+		"ytdl-core": "^0.29.2"
+	}
+}
